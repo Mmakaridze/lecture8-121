@@ -16,7 +16,7 @@
 .ul-parent {
     width: 562PX;
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
 }
 .header-parent {
     position: fixed;
